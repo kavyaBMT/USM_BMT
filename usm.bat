@@ -1,0 +1,2 @@
+java -Dlighthouse.binary.path=C:/Users/Administrator/AppData/Roaming/npm/lighthouse.cmd -DtomcatPrivateIP=10.1.4.220 -DtomcatPublicIP=3.218.117.228 -DRunid=ONECONFIGFY21Test014 -DNodeName=N.Virginia_Node-1 -DExecutionid=null -jar C:/USM_Data/USM_ENGINE.jar C:/USM_Data/TestData/Controller_ONECONFIGFY21Test014.xlsx --es-hostname=10.1.1.82 --es-password=G5mSypnwh8jafA3zhXs2 --es-username=elastic --es-index perf_new
+pause
